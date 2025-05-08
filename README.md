@@ -122,7 +122,7 @@ These ablations reveal how critical **reward engineering** is to guide language 
 
 *  Medium Article: [DeepTrans: AI That Learns to Think Before It Translates](https://medium.com/@apurva.karne/deeptrans-ai-that-learns-to-think-before-it-translates-cd6ebe3c0793)
 *  YouTube Presentation: [Link](https://youtube.com/your-video-id)
-*  Slideshare Slide Deck: [Link](https://slideshare.net/your-slidedeck-id)
+*  Slideshare Slide Deck: [Link](https://www.slideshare.net/slideshow/deeptrans-ai-that-learns-to-think-before-it-translates/278856888)
 
 ---
 
